@@ -1,0 +1,5 @@
+{
+  "name": "BeamStruct Sim",
+  "description": "即時結構分析介面，視覺化懸臂樑在外力作用下的應力分佈與變形狀況（簡化有限元素法）。",
+  "requestFramePermissions": []
+}
